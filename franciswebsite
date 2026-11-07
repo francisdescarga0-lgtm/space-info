@@ -1,0 +1,96 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Space Information</title>
+
+<style>
+body {
+    background: #050817;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    color: #55c8ff;
+    text-shadow: 0 0 15px #008cff;
+}
+
+.planet {
+    background: #111b35;
+    border: 1px solid #263d68;
+    border-radius: 15px;
+    padding: 18px;
+    margin: 15px auto;
+    max-width: 400px;
+    box-shadow: 0 0 12px #102b55;
+}
+
+.planet h2 {
+    color: #7bd5ff;
+}
+
+.planet p {
+    color: #d5e5ff;
+    font-size: 16px;
+}
+
+button {
+    background: #087bc5;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 10px;
+    font-size: 15px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>🌌 SPACE INFORMATION</h1>
+<p>Explore the planets of our Solar System</p>
+
+<div class="planet">
+<h2>☿ Mercury</h2>
+<p>Near the Sun, but not the hottest planet.</p>
+</div>
+
+<div class="planet">
+<h2>♀ Venus</h2>
+<p>The hottest planet in our Solar System.</p>
+</div>
+
+<div class="planet">
+<h2>🌍 Earth</h2>
+<p>The living planet and home to humans.</p>
+</div>
+
+<div class="planet">
+<h2>♃ Jupiter</h2>
+<p>A giant planet with a massive red spot.</p>
+</div>
+
+<div class="planet">
+<h2>🪐 Saturn</h2>
+<p>A beautiful planet famous for its huge rings.</p>
+</div>
+
+<div class="planet">
+<h2>♅ Uranus</h2>
+<p>A blue-green planet that rotates on its side.</p>
+</div>
+
+<div class="planet">
+<h2>♆ Neptune</h2>
+<p>The farthest planet from the Sun.</p>
+</div>
+
+<p>🚀 END OF SOLAR SYSTEM GUIDE</p>
+
+</body>
+</html>
